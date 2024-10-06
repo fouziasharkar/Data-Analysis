@@ -1,6 +1,7 @@
 # Data-Analysis-Process
-Asking Questions
-Data Wrangling
+
+1. Asking Questions
+2. Data Wrangling
 a. Gathering Data
  - i. CSV files
  - ii. APIs
@@ -8,6 +9,6 @@ a. Gathering Data
  - iv. Databases
 b. Assessing Data
 c. Cleaning Data
-Exploratory Data Analysis
-Drawing Conclusion
-Comunicating Results
+3. Exploratory Data Analysis
+4. Drawing Conclusion
+5. Comunicating Results
